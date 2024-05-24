@@ -1,0 +1,52 @@
+.bg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    overflow: hidden;
+    vertical-align: bottom;   
+    z-index: 1;
+}
+
+.video_640_1024 {
+    width: 58.8%;
+    height: 78.45%;
+    position: absolute;
+    top: 17.4vh;
+    left: 21.65vw;
+    overflow: hidden;
+    /* color: red;
+    background-color: red; */
+    border-radius: 5.4vh;
+    z-index: 2;
+    object-fit: cover;
+}
+
+.hole {
+    width: 20%;
+    height: 5%;
+    position: absolute;
+    top: 17.5vh;
+    left: 40vw;
+    background-color: transparent;
+    /* transform: translate(-50%, -50%);             */
+    border-radius: 5vh;
+    z-index: 2;
+}
+
+.serial_640_1024 {
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    opacity: 0.7;
+    width: 25%;
+    height: 5%;
+    top: 96.3%;
+    left: 76%;
+    position: absolute;
+}

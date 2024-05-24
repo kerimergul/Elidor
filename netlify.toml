@@ -1,0 +1,54 @@
+[[redirects]]
+  from = "/upload"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/adminpanel"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/sabit"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/_1080_1920"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/_624_1040"
+  to = "/"
+  status = 200
+  
+[[redirects]]
+  from = "/_640_1040"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/_640_1120"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/_768_1280"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/_768_1344"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/_864_1440"
+  to = "/"
+  status = 200
+
+[[redirects]]
+  from = "/_1680_1008"
+  to = "/"
+  status = 200
